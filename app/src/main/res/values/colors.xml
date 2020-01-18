@@ -8,4 +8,7 @@
     <color name="medium_green">#4F8D74</color>
     <color name="white">#FFFFFF</color>
     <color name="grey">#83FFFFFF</color>
+    <color name="blue">#4A03A9F4</color>
+    <color name="line_color">#34000000</color>
+    <color name="black">#000000</color>
 </resources>

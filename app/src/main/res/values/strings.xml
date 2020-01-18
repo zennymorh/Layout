@@ -3,4 +3,9 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="location">JAKARTA, INDONESIA</string>
+    <string name="restaurant_name">Cafe l\'Amore</string>
+    <string name="restaurant_description">An intimate coffee shop for you, your friends, your family.</string>
+    <string name="Location">198, Saint-Tropez, France</string>
+    <string name="duration">7:00am - 6:00pm</string>
+    <string name="Reviews">Reviews</string>
 </resources>
