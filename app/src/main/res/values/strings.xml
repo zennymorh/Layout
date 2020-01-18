@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="location">JAKARTA, INDONESIA</string>
+</resources>
