@@ -8,4 +8,9 @@
     <string name="Location">198, Saint-Tropez, France</string>
     <string name="duration">7:00am - 6:00pm</string>
     <string name="Reviews">Reviews</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login_button">Login</string>
+    <string name="or_signup_with">or signup with</string>
+    <string name="temp">30°C</string>
+    <string name="date">MONDAY, DECEMBER 16</string>
 </resources>
