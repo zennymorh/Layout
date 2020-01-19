@@ -9,6 +9,7 @@ import com.zennymorh.layout.databinding.ActivityMainBinding
 import com.zennymorh.layout.databinding.ActivityWeatherBinding
 
 class WeatherActivity : AppCompatActivity() {
+    //binding!
 
     private lateinit var binding: ActivityWeatherBinding
 
